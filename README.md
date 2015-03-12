@@ -1,7 +1,8 @@
 Short Stack: MongoDB
 =========
 [![Build Status](https://travis-ci.org/poetic/short-stack-mongodb.svg)](https://travis-ci.org/poetic/short-stack-mongodb)
-Installs mongodb and adds launch agent.
+
+Installs MongoDB and adds launch agent.
 
 Requirements
 ------------

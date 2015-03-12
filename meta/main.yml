@@ -2,7 +2,7 @@
 galaxy_info:
   author: Matthew Hager
   company: Poetic Systems
-  description: Short Stack role that installs mongodb and adds launch agent.
+  description: Installs MongoDB and adds launch agent.
   license: MIT
   min_ansible_version: 1.8
   platforms:

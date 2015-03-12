@@ -1,5 +1,5 @@
 ---
-- name: install/update mongodb
+- name: ensure mongodb is installed/updated
   homebrew: name=mongodb state=latest
 
 - name: ensure ~/Library/LaunchAgents directory exists
